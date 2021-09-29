@@ -1,0 +1,37 @@
+#container {
+  margin: 30px;
+}
+
+#container div {
+  margin-bottom: 20px;
+}
+
+label {
+  display: inline-block;
+  width: 250px;
+}
+
+body {
+  background-color: slategrey;
+  color: white;
+  padding-left: 30px;
+  padding-top: 20px;
+}
+
+input, select {
+  width: 80px;
+}
+
+output {
+  width: 100px;
+  margin-left: 20px;
+}
+
+#radiot label{
+  width: 150px;
+}
+
+#radiot input, output{
+  width: 20px;
+  margin-left: 0px;
+}
